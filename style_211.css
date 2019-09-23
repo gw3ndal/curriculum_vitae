@@ -1,0 +1,79 @@
+@font-face{
+	font-family: myFont2;
+	src: url("Simply Rounded.ttf");
+}
+h1{
+   color: orange;
+   text-shadow: 3px 3px 3px black;
+   font-weight: normal;
+}
+.img-circle{
+	border-radius: 20%;
+}
+.img-bordered{
+  border: 3px solid rgb(210,105,0);
+}
+#leader{
+	box-shadow: 4px 4px 4px black
+}
+body {
+	background-color: brown; color: white;
+	font-family: myFont2;
+	font-size: medium;
+	text-shadow: 1px 1px black
+}
+h2{
+	color: orange;
+	text-shadow: 2px 3px 2px black;
+	font-weight: normal;
+}
+a{
+	text-decoration: none;
+	color: rgb(255,167,79);
+}
+a:hover{
+	
+	text-shadow: 2px 2px 3px black;
+}
+abbr{
+	text-decoration:none;
+}
+.exdiv1{
+	text-align: center;
+	text-shadow: 1px 1px black;
+}
+#annexe{
+	color: rgb(255,167,79);
+}
+.exspan1{
+	font-style: italic;
+	color: rgb(220,220,220);
+}
+.exspan2{
+	color: rgb(220,220,220);
+}
+.exspan3{
+	color: rgb(255,167,79);
+	font-style: italic;
+}
+.exspan4{
+	font-style: italic;
+}
+em{
+	color: rgb(220,220,220);
+}
+strong{
+	color: rgb(255,184,113);
+	text-shadow: 1px 1px black;
+	font-style: normal;
+	font-weight: normal;
+}
+textarea, label, select, input{
+	font-family: myFont2
+}
+label{
+	color: white;
+}
+input{
+	color: maroon;
+}
